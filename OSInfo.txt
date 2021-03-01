@@ -1,0 +1,1 @@
+{"uid":502,"gid":20,"username":"zia-invozone","homedir":"/Users/zia-invozone","shell":"/bin/zsh"}
