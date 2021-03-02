@@ -1,6 +1,6 @@
-const car={
-    brand: 'Honda',
-    model: 'Civic' 
-}
+const car = {
+  brand: 'Honda',
+  model: 'Civic',
+};
 
 module.exports = car;
