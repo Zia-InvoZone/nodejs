@@ -10,5 +10,5 @@ fs.writeFile(`${path}.txt`, '', () => {
 fs.appendFile(`${path}.txt`, JSON.stringify(os.userInfo()), (err) => {
   if (err) throw err;
   // eslint-disable-next-line no-console
-  console.log('Saved!');
+  console.log('File Saved!');
 });
